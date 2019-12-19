@@ -1,4 +1,4 @@
-# hex [![Build status][travis-badge]][travis] [![Docker Hub build][docker-hub-badge]][docker-hub]
+# hex [![Docker Hub build][docker-hub-badge]][docker-hub]
 
 > A hydrus API plugin to download ExH archives
 
@@ -223,8 +223,6 @@ You are welcome to help out!
 [semantic-versioning]: https://semver.org/
 [docker-compose]: https://docs.docker.com/compose/
 
-[travis]: https://travis-ci.com/a1e7de48f89e/hex
-[travis-badge]: https://travis-ci.com/a1e7de48f89e/hex.svg
 [docker-hub-badge]: https://img.shields.io/docker/cloud/automated/a1e7de48f89e/hex.svg
 
 [maintainer]: https://github.com/a1e7de48f89e
