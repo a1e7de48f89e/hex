@@ -47,7 +47,7 @@ To use hex with Docker, you can simply pull the prebuilt image from
 [Docker Hub][docker-hub]:
 
 ```zsh
-user@local:~$ docker pull a1e7de48f89e/hex
+user@local:~$ docker pull mtbl/hex
 ```
 
 Alternatively, you can also build the image yourself. The user that is used
@@ -94,7 +94,7 @@ versions.
 Simply pull the latest Docker image to update:
 
 ```zsh
-user@local:~$ docker pull a1e7de48f89e/hex
+user@local:~$ docker pull mtbl/hex
 ```
 
 #### Updating without Docker
@@ -332,7 +332,7 @@ You are welcome to help out!
 
 [hydrus]: http://hydrusnetwork.github.io/hydrus
 [docker]: https://www.docker.com/
-[docker-hub]: https://hub.docker.com/r/a1e7de48f89e/hex/
+[docker-hub]: https://hub.docker.com/r/mtbl/hex/
 [node-js]: https://nodejs.org/en/
 [yarn]: https://yarnpkg.com/
 [puppeteer]: https://pptr.dev/
@@ -343,7 +343,7 @@ You are welcome to help out!
 
 [screenshot]: https://github.com/a1e7de48f89e/hex/raw/master/media/screenshot.png
 
-[docker-hub-badge]: https://img.shields.io/docker/cloud/automated/a1e7de48f89e/hex.svg
+[docker-hub-badge]: https://img.shields.io/docker/cloud/automated/mtbl/hex.svg
 
 [maintainer]: https://github.com/a1e7de48f89e
 [issues]: https://github.com/a1e7de48f89e/hex/issues/new

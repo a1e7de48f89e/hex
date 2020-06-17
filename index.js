@@ -2,7 +2,7 @@
 
 /*!
  * hex
- * Copyright (C) 2019-present  a1e7de48f89e  https://a1e7de48f89e.dev
+ * Copyright (C) 2019-present  a1e7de48f89e  https://github.com/a1e7de48f89e
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as published by
